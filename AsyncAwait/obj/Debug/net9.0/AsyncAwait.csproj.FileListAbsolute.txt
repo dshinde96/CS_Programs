@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/AsyncAwait/bin/Debug/net9.0/AsyncAwait
+/home/dnyaneshwar/C#/AsyncAwait/bin/Debug/net9.0/AsyncAwait.deps.json
+/home/dnyaneshwar/C#/AsyncAwait/bin/Debug/net9.0/AsyncAwait.runtimeconfig.json
+/home/dnyaneshwar/C#/AsyncAwait/bin/Debug/net9.0/AsyncAwait.dll
+/home/dnyaneshwar/C#/AsyncAwait/bin/Debug/net9.0/AsyncAwait.pdb
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/AsyncAwait.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/AsyncAwait.AssemblyInfo.cs
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/AsyncAwait.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/AsyncAwait.dll
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/refint/AsyncAwait.dll
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/AsyncAwait.pdb
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/AsyncAwait.genruntimeconfig.cache
+/home/dnyaneshwar/C#/AsyncAwait/obj/Debug/net9.0/ref/AsyncAwait.dll

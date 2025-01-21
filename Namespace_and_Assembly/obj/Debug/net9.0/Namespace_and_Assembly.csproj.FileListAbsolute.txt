@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/Namespace_and_Assembly.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/Namespace_and_Assembly.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/Namespace_and_Assembly.AssemblyInfo.cs
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/Namespace_and_Assembly.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/Namespace_and_Assembly/bin/Debug/net9.0/Namespace_and_Assembly
+/home/dnyaneshwar/C#/Namespace_and_Assembly/bin/Debug/net9.0/Namespace_and_Assembly.deps.json
+/home/dnyaneshwar/C#/Namespace_and_Assembly/bin/Debug/net9.0/Namespace_and_Assembly.runtimeconfig.json
+/home/dnyaneshwar/C#/Namespace_and_Assembly/bin/Debug/net9.0/Namespace_and_Assembly.dll
+/home/dnyaneshwar/C#/Namespace_and_Assembly/bin/Debug/net9.0/Namespace_and_Assembly.pdb
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/Namespace_and_Assembly.dll
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/refint/Namespace_and_Assembly.dll
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/Namespace_and_Assembly.pdb
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/Namespace_and_Assembly.genruntimeconfig.cache
+/home/dnyaneshwar/C#/Namespace_and_Assembly/obj/Debug/net9.0/ref/Namespace_and_Assembly.dll

@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/PhoneRegistry/bin/Debug/net9.0/PhoneRegistry
+/home/dnyaneshwar/C#/PhoneRegistry/bin/Debug/net9.0/PhoneRegistry.deps.json
+/home/dnyaneshwar/C#/PhoneRegistry/bin/Debug/net9.0/PhoneRegistry.runtimeconfig.json
+/home/dnyaneshwar/C#/PhoneRegistry/bin/Debug/net9.0/PhoneRegistry.dll
+/home/dnyaneshwar/C#/PhoneRegistry/bin/Debug/net9.0/PhoneRegistry.pdb
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/PhoneRegistry.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/PhoneRegistry.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/PhoneRegistry.AssemblyInfo.cs
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/PhoneRegistry.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/PhoneRegistry.dll
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/refint/PhoneRegistry.dll
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/PhoneRegistry.pdb
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/PhoneRegistry.genruntimeconfig.cache
+/home/dnyaneshwar/C#/PhoneRegistry/obj/Debug/net9.0/ref/PhoneRegistry.dll

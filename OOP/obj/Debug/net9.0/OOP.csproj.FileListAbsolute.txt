@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/OOP/bin/Debug/net9.0/OOP
+/home/dnyaneshwar/C#/OOP/bin/Debug/net9.0/OOP.deps.json
+/home/dnyaneshwar/C#/OOP/bin/Debug/net9.0/OOP.runtimeconfig.json
+/home/dnyaneshwar/C#/OOP/bin/Debug/net9.0/OOP.dll
+/home/dnyaneshwar/C#/OOP/bin/Debug/net9.0/OOP.pdb
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/OOP.dll
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/refint/OOP.dll
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/OOP.pdb
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/OOP.genruntimeconfig.cache
+/home/dnyaneshwar/C#/OOP/obj/Debug/net9.0/ref/OOP.dll

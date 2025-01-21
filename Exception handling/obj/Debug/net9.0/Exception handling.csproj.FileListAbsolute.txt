@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/Exception handling/bin/Debug/net9.0/Exception handling
+/home/dnyaneshwar/C#/Exception handling/bin/Debug/net9.0/Exception handling.deps.json
+/home/dnyaneshwar/C#/Exception handling/bin/Debug/net9.0/Exception handling.runtimeconfig.json
+/home/dnyaneshwar/C#/Exception handling/bin/Debug/net9.0/Exception handling.dll
+/home/dnyaneshwar/C#/Exception handling/bin/Debug/net9.0/Exception handling.pdb
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/Exception handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/Exception handling.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/Exception handling.AssemblyInfo.cs
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/Exception handling.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/Exception handling.dll
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/refint/Exception handling.dll
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/Exception handling.pdb
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/Exception handling.genruntimeconfig.cache
+/home/dnyaneshwar/C#/Exception handling/obj/Debug/net9.0/ref/Exception handling.dll

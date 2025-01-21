@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/Events_and_Delegates/bin/Debug/net9.0/Events_and_Delegates
+/home/dnyaneshwar/C#/Events_and_Delegates/bin/Debug/net9.0/Events_and_Delegates.deps.json
+/home/dnyaneshwar/C#/Events_and_Delegates/bin/Debug/net9.0/Events_and_Delegates.runtimeconfig.json
+/home/dnyaneshwar/C#/Events_and_Delegates/bin/Debug/net9.0/Events_and_Delegates.dll
+/home/dnyaneshwar/C#/Events_and_Delegates/bin/Debug/net9.0/Events_and_Delegates.pdb
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/Events_and_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/Events_and_Delegates.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/Events_and_Delegates.AssemblyInfo.cs
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/Events_and_Delegates.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/Events_and_Delegates.dll
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/refint/Events_and_Delegates.dll
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/Events_and_Delegates.pdb
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/Events_and_Delegates.genruntimeconfig.cache
+/home/dnyaneshwar/C#/Events_and_Delegates/obj/Debug/net9.0/ref/Events_and_Delegates.dll

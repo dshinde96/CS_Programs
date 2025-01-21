@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/Linq/bin/Debug/net9.0/Linq
+/home/dnyaneshwar/C#/Linq/bin/Debug/net9.0/Linq.deps.json
+/home/dnyaneshwar/C#/Linq/bin/Debug/net9.0/Linq.runtimeconfig.json
+/home/dnyaneshwar/C#/Linq/bin/Debug/net9.0/Linq.dll
+/home/dnyaneshwar/C#/Linq/bin/Debug/net9.0/Linq.pdb
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/Linq.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/Linq.AssemblyInfo.cs
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/Linq.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/Linq.dll
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/refint/Linq.dll
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/Linq.pdb
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/Linq.genruntimeconfig.cache
+/home/dnyaneshwar/C#/Linq/obj/Debug/net9.0/ref/Linq.dll

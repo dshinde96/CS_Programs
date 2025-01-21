@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/Partial_Class_demo/bin/Debug/net9.0/Partial_Class_demo
+/home/dnyaneshwar/C#/Partial_Class_demo/bin/Debug/net9.0/Partial_Class_demo.deps.json
+/home/dnyaneshwar/C#/Partial_Class_demo/bin/Debug/net9.0/Partial_Class_demo.runtimeconfig.json
+/home/dnyaneshwar/C#/Partial_Class_demo/bin/Debug/net9.0/Partial_Class_demo.dll
+/home/dnyaneshwar/C#/Partial_Class_demo/bin/Debug/net9.0/Partial_Class_demo.pdb
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/Partial_Class_demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/Partial_Class_demo.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/Partial_Class_demo.AssemblyInfo.cs
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/Partial_Class_demo.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/Partial_Class_demo.dll
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/refint/Partial_Class_demo.dll
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/Partial_Class_demo.pdb
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/Partial_Class_demo.genruntimeconfig.cache
+/home/dnyaneshwar/C#/Partial_Class_demo/obj/Debug/net9.0/ref/Partial_Class_demo.dll

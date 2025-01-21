@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/MultiThreading/bin/Debug/net9.0/MultiThreading
+/home/dnyaneshwar/C#/MultiThreading/bin/Debug/net9.0/MultiThreading.deps.json
+/home/dnyaneshwar/C#/MultiThreading/bin/Debug/net9.0/MultiThreading.runtimeconfig.json
+/home/dnyaneshwar/C#/MultiThreading/bin/Debug/net9.0/MultiThreading.dll
+/home/dnyaneshwar/C#/MultiThreading/bin/Debug/net9.0/MultiThreading.pdb
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/MultiThreading.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/MultiThreading.AssemblyInfo.cs
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/MultiThreading.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/MultiThreading.dll
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/refint/MultiThreading.dll
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/MultiThreading.pdb
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/MultiThreading.genruntimeconfig.cache
+/home/dnyaneshwar/C#/MultiThreading/obj/Debug/net9.0/ref/MultiThreading.dll

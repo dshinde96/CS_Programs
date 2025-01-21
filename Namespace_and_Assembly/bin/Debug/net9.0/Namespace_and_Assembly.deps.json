@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Namespace_and_Assembly/1.0.0": {
+        "runtime": {
+          "Namespace_and_Assembly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespace_and_Assembly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
