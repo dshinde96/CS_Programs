@@ -63,26 +63,35 @@ class Program{
 
 
         //Method syntax-> Outer join
-        var DepartmentsWithEmployee=AllDept.GroupJoin(AllEmp,
-            department=>department.Id,
-            employee=>employee.DeptId,
-            (department,employees)=>new{
-                employees,
-                department=department.Name
-            }
-        );
+        // var DepartmentsWithEmployee=AllDept.GroupJoin(AllEmp,
+        //     department=>department.Id,
+        //     employee=>employee.DeptId,
+        //     (department,employees)=>new{
+        //         employees,
+        //         department=department.Name
+        //     }
+        // );
 
-        foreach(var d in DepartmentsWithEmployee){
-            Console.WriteLine($"Department:{d.department}\n\t Employees:");
-            foreach(var e in d.employees){
-                Console.WriteLine(e.Name);
-            }
+        // foreach(var d in DepartmentsWithEmployee){
+        //     Console.WriteLine($"Department:{d.department}\n\t Employees:");
+        //     foreach(var e in d.employees){
+        //         Console.WriteLine(e.Name);
+        //     }
 
+        // }
+
+
+        // var empCountByDept=AllEmp.GroupBy((emp)=>emp.DeptId).Select(dept=>new {department=dept.Key,Eployees=dept.Count()});
+        // foreach(var i in empCountByDept){
+        //     Console.WriteLine(i.ToString());
+        // }
+
+
+        var emp=AllEmp.Select(e=>new {name=e.Name,Salary=e.Salary}).OrderBy(emp=>emp.Salary);
+        Console.WriteLine(emp.GetType());
+        foreach(var e in emp){
+            Console.WriteLine(e.ToString());
         }
-
-        //Query syntax-> outer join
-
-        // var filteredEmp=from dept in AllDept
                         
     }
 }

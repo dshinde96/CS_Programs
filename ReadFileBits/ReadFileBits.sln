@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileBits", "ReadFileBits.csproj", "{28D899EB-EDCC-01B8-FA25-3388026F3782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D899EB-EDCC-01B8-FA25-3388026F3782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D899EB-EDCC-01B8-FA25-3388026F3782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D899EB-EDCC-01B8-FA25-3388026F3782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D899EB-EDCC-01B8-FA25-3388026F3782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD20114D-467C-40F2-A194-CE259FCE2823}
+	EndGlobalSection
+EndGlobal

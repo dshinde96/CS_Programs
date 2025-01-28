@@ -1,0 +1,14 @@
+/home/dnyaneshwar/C#/ReadFileBits/bin/Debug/net9.0/ReadFileBits
+/home/dnyaneshwar/C#/ReadFileBits/bin/Debug/net9.0/ReadFileBits.deps.json
+/home/dnyaneshwar/C#/ReadFileBits/bin/Debug/net9.0/ReadFileBits.runtimeconfig.json
+/home/dnyaneshwar/C#/ReadFileBits/bin/Debug/net9.0/ReadFileBits.dll
+/home/dnyaneshwar/C#/ReadFileBits/bin/Debug/net9.0/ReadFileBits.pdb
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/ReadFileBits.GeneratedMSBuildEditorConfig.editorconfig
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/ReadFileBits.AssemblyInfoInputs.cache
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/ReadFileBits.AssemblyInfo.cs
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/ReadFileBits.csproj.CoreCompileInputs.cache
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/ReadFileBits.dll
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/refint/ReadFileBits.dll
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/ReadFileBits.pdb
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/ReadFileBits.genruntimeconfig.cache
+/home/dnyaneshwar/C#/ReadFileBits/obj/Debug/net9.0/ref/ReadFileBits.dll

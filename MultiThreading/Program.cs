@@ -53,26 +53,26 @@ class Program{
 
         //using threadstart delegate
 
-        ThreadStart ts=new ThreadStart(()=>{
-            for(int i=0; i<5; i++){
-                Thread.Sleep(500);
-                Console.WriteLine(i);
-            }
-        });
-        Thread t1=new Thread(ts);
-        t1.Start();
+        // ThreadStart ts=new ThreadStart(()=>{
+        //     for(int i=0; i<5; i++){
+        //         Thread.Sleep(500);
+        //         Console.WriteLine(i);
+        //     }
+        // });
+        // Thread t1=new Thread(ts);
+        // t1.Start();
 
-        t1.Join();
+        // t1.Join();
 
-        ParameterizedThreadStart pdts=new ParameterizedThreadStart((object? max)=>{
-            int m=Convert.ToInt32(max);
-            for(int i=0; i<m; i++){
-                Thread.Sleep(500);
-                Console.WriteLine(i);
-            }
-        });
+        // ParameterizedThreadStart pdts=new ParameterizedThreadStart((object? max)=>{
+        //     int m=Convert.ToInt32(max);
+        //     for(int i=0; i<m; i++){
+        //         Thread.Sleep(500);
+        //         Console.WriteLine(i);
+        //     }
+        // });
 
-        Thread t2=new Thread(pdts);
-        t2.Start(8);
+        // Thread t2=new Thread(pdts);
+        // t2.Start(8);
     }
 }

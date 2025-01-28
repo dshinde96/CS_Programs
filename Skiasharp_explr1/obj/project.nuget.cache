@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+OS8lOBAUoA=",
+  "success": true,
+  "projectFilePath": "/home/dnyaneshwar/C#/Skiasharp_explr1/Skiasharp_explr1.csproj",
+  "expectedPackageFiles": [
+    "/home/dnyaneshwar/.nuget/packages/skiasharp/3.116.1/skiasharp.3.116.1.nupkg.sha512",
+    "/home/dnyaneshwar/.nuget/packages/skiasharp.nativeassets.linux/3.116.1/skiasharp.nativeassets.linux.3.116.1.nupkg.sha512",
+    "/home/dnyaneshwar/.nuget/packages/skiasharp.nativeassets.macos/3.116.1/skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "/home/dnyaneshwar/.nuget/packages/skiasharp.nativeassets.win32/3.116.1/skiasharp.nativeassets.win32.3.116.1.nupkg.sha512"
+  ],
+  "logs": []
+}
